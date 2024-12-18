@@ -42,8 +42,5 @@ CREATE TABLE [dbo].[disney_plus_shows](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 
-
-
-
 select * from [dbo].[disney_plus_shows]
 
