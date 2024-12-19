@@ -2,8 +2,7 @@
 
  Overview
 
- This project involves a comprehensive analysis of Disney movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the 
- dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project involves a comprehensive analysis of Disney movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 Objectives
 
@@ -45,6 +44,7 @@ GO
 select * from [dbo].[disney_plus_shows]
 
 Findings and Conclusion
+
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
 Actor Insights: The number of movie a particular actor appeard.
