@@ -46,8 +46,12 @@ select * from [dbo].[disney_plus_shows]
 Findings and Conclusion
 
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
+
 Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
+
 Actor Insights: The number of movie a particular actor appeard.
+
 Content Added: Number of content items added each year on Disney.
+
 This analysis provides a comprehensive view of Disneys's content and can help inform content strategy and decision-making.
 
