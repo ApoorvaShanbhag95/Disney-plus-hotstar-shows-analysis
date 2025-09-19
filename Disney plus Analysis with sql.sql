@@ -1,3 +1,4 @@
+# Raw data from Kaggle
 select * from [dbo].[disney_plus_shows]
 
 ---12 Business Problems!
@@ -128,4 +129,5 @@ GROUP BY
 	YEAR(added_at)
 ORDER BY 
 		YEAR(added_at);
+
 
