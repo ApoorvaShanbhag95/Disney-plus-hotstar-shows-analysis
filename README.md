@@ -77,6 +77,14 @@ A data analytics project using **SQL** to explore and derive insights from a dat
 ---
 
 
+## 📂 Repository Structure
+
+├── disney_plus_shows.csv # Raw data from Kaggle
+
+├── Disney plus Analysis with sql.sql # SQL scripts for various analytical queries
+
+├── README.md # Project description, objectives, findings
+
 
 
 
