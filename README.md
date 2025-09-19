@@ -76,7 +76,7 @@ A data analytics project using **SQL** to explore and derive insights from a dat
 
 ---
 
-## 📂 Repository Structure
+
 
 
 
